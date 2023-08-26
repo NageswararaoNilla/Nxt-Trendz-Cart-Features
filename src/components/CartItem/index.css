@@ -102,6 +102,7 @@
 .total-price-remove-container {
   display: flex;
   align-items: center;
+  margin-left: 10px;
 }
 
 .cart-total-price {

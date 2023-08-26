@@ -38,3 +38,14 @@
 }
 
 /* Write your CSS here */
+.remove-all-btn {
+  background-color: transparent;
+  color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 700;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
